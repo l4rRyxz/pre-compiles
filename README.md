@@ -16,3 +16,6 @@ a collection of some useful scripts for pentesting/red teaming.
 - #### [ad_enumeration.ps1](https://github.com/l4rRyxz/scripts/blob/main/ad_enumeration.ps1)
 	An simple powershell script using .NET classes from OSCP. Easy to extend for simple recon tasks in AD environments.
 
+- #### [Spray-Passwords.ps1](https://github.com/l4rRyxz/scripts/blob/main/Spray-Passwords.ps1)
+	A powershell script to spray passwords in AD environments. The PowerShell script automatically identifies domain users and sprays a password against them.
+
