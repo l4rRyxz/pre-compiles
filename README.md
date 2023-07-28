@@ -19,3 +19,5 @@ a collection of some useful scripts for pentesting/red teaming.
 - #### [Spray-Passwords.ps1](https://github.com/l4rRyxz/scripts/blob/main/Spray-Passwords.ps1)
 	A powershell script to spray passwords in AD environments. The PowerShell script automatically identifies domain users and sprays a password against them.
 
+- #### [generate_sliver_encode.py](https://github.com/l4rRyxz/scripts/blob/main/generate_sliver_encode.py)
+	A python scripts that takes $IP and $PORT parameter and generates powershell one-liner stage1 sliver payload.
