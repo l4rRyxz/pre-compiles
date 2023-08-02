@@ -13,4 +13,3 @@ From LOCAL/NETWORK SERVICE to SYSTEM by abusing `SeImpersonatePrivilege` on Wind
 - #### [JuicyPotato](https://github.com/l4rRyxz/pre-compiles/blob/main/windows/JuicyPotato/)
 A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM
 The folder also contains a script `GetCLSID.ps1` this may be necessary to gather working CLSID's for the exploitation.
-
